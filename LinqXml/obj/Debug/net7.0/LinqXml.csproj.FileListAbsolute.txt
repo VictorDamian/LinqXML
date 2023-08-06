@@ -1,0 +1,15 @@
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.csproj.AssemblyReference.cache
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.AssemblyInfoInputs.cache
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.AssemblyInfo.cs
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\bin\Debug\net7.0\LinqXml.exe
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\bin\Debug\net7.0\LinqXml.deps.json
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\bin\Debug\net7.0\LinqXml.runtimeconfig.json
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\bin\Debug\net7.0\LinqXml.dll
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\bin\Debug\net7.0\LinqXml.pdb
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.dll
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\refint\LinqXml.dll
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.pdb
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\LinqXml.genruntimeconfig.cache
+C:\Users\stalk\Desktop\DotNet Proyects\Ejercicios\Xmlinq\LinqXml\obj\Debug\net7.0\ref\LinqXml.dll

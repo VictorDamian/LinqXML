@@ -1,0 +1,31 @@
+<XML>
+	<!-- Elementos -->
+	<DATA>
+		<!--- Si este nodo no tiene hijos no apareceran -->
+		<!--- Elemento y atributos-->
+		<VALOR
+			metodo="1"
+			email="correo1@gmail.com" prioEmail="S" secEm="1"
+			cel="100" prioCel="N" secCel="2"
+			tel="200" prioTel="N" secTel="3"
+			/>
+		<VALOR
+			metodo="1"
+			email="correo2@gmail.com" prioEmail="N" secEm="4"
+			cel="100" prioCel="N" secCel="5"
+			tel="200" prioTel="N" secTel="6"
+			/>
+		<VALOR
+			metodo="1"
+			email="correo3@gmail.com" prioEmail="N" secEm="7"
+			cel="100" prioCel="N" secCel="8"
+			tel="200" prioTel="N" secTel="9"
+			/>
+		<VALOR
+			metodo="1"
+			email="correo4@gmail.com" prioEmail="N" secEm="10"
+			cel="100" prioCel="N" secCel="8"
+			tel="200" prioTel="N" secTel="9"
+			/>
+	</DATA>
+</XML>
